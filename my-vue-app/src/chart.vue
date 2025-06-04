@@ -8,7 +8,7 @@
 <script>
 import { ref, watch } from 'vue';
 import Chart from 'chart.js/auto';
-
+ 
 export default {
   name: 'Chart',
   props: {

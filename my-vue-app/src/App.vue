@@ -80,7 +80,7 @@
 
 <script>
 import { ref, computed, onMounted, onUnmounted } from 'vue';
-import Chart from './Chart.vue';
+import Chart from './Chart.vue'; 
 
 export default {
   name: 'App',
